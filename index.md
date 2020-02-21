@@ -1,4 +1,3 @@
-QQ图片20160923215612
 <table border="0">
   <tr>
     <td width="75%">
